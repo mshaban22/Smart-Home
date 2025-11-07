@@ -1,16 +1,6 @@
-# smart_building
+# Smart_Home
+an IOT smart home using Arduino and integrated with a mobile app built with flutter.
 
-A new Flutter project.
+We will use two sensors which are DHT11 for measuring temperature/humidity, and MQ135 sensor for determining the air quality. Both a humidifier and a 5V DC fan were used as actuators to adjust humidity and air quality in specific ranges.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
